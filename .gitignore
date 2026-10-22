@@ -1,5 +1,6 @@
 work/
+outputs/
 __pycache__/
 *.py[cod]
 .venv/
-outputs/rag-lite/data/index.json
+data/index.json
